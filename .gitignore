@@ -1,0 +1,6 @@
+# 工作区本地数据，不纳入版本控制
+.workbuddy/
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
